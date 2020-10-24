@@ -30,7 +30,6 @@
 
 ## Table of Contents
 - [Features, requirements, and limitations](#Features-requirements-and-limitations)
-- [Download](#Download)
 - [Usage](#Usage)
 - [Example](#example)
 - [Auto Restart](#restart)
@@ -59,15 +58,6 @@
 
 <img src="https://github.com/PhoenixMiner-download/PhoenixMiner/blob/master/files/git-files/mining.jpg?raw=true" width="866" >
 
-## Download
-
-<p>
-<a href="https://github.com/PhoenixMiner-download/PhoenixMiner/releases/download/5.1b/PhoenixMiner_5.1b_Windows.Password-phoenix.zip" alt="PhoenixMiner ethereum miner">
-<img src="https://github.com/PhoenixMiner-download/PhoenixMiner/blob/master/files/git-files/downlaod.png?raw=true" width="300" ></a></p>
-
-* Binary releases: https://github.com/PhoenixMiner/PhoenixMiner/releases
-* Git tree: https://github.com/PhoenixMiner/PhoenixMiner.git
-  * Clone with `git clone https://github.com/PhoenixMiner/PhoenixMiner.git`  :hammer:
   
 ## How to use
 
