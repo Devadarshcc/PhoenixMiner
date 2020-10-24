@@ -1,21 +1,4 @@
-<p align="center">
-<a href="https://github.com/PhoenixMiner-download/PhoenixMiner/releases/download/5.1b/PhoenixMiner_5.1b_Windows.Password-phoenix.zip" alt="PhoenixMiner ethereum miner">
-<img src="https://github.com/PhoenixMiner-download/PhoenixMiner/blob/master/files/git-files/phoenix-header-6.jpg?raw=true" /></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/PhoenixMiner/PhoenixMiner/releases" alt="Activity">
-<img src="https://img.shields.io/github/downloads/xmrig/xmrig/total.svg" /></a>
-
-<a href="https://github.com/PhoenixMiner/PhoenixMiner/blob/master/License.txt" alt="Activity">
-<img src="https://img.shields.io/github/license/xmrig/xmrig-amd.svg" /></a>
-<a href="#" alt="Activity">
-<img src="https://img.shields.io/github/release-date-pre/xmrig/xmrig-amd.svg" /></a>
-<a href="https://github.com/PhoenixMiner/PhoenixMiner/pulse" alt="Activity">
-<img src="https://img.shields.io/github/commit-activity/m/badges/shields.svg" /></a>
-<a href="#">
-<img src="https://img.shields.io/circleci/project/github/badges/shields/master.svg" alt="build status"></a>
-</p>
+ ![](https://github.com/SRBPolaris/screen/raw/master/Screenshot_1.png)
 
 # 	PhoenixMiner: fastest Ethereum/Ethash miner with lowest devfee (Win/Linux)
 <p>PhoenixMiner is high performance Ethereum (ETH) and ERC20 tokens  miner, with the official full Windows / Linux support.
