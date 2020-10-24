@@ -44,11 +44,11 @@
   
 ## How to use
 
-<li>Step 1 -  Install your GPUs and set up your computer</li>
-<li>Step 2 -  <a href="https://github.com/PhoenixMiner-download/PhoenixMiner/releases/download/5.1b/PhoenixMiner_5.1b_Windows.Password-phoenix.zip">Download latest PhoenixMiner</a></li>
-<li>Step 3 -  Get an Ethereum wallet (<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/ethereum/mist/releases">Mist</a> or MyEtherWallet)</li>
+<li>Step 1 -  Install your GPUs and set up your computer
+<li>Step 2 -  Download latest PhoenixMiner
+<li>Step 3 -  Get an Ethereum wallet 
 <li>Step 4 -  Join a mining pool
-<li>Step 5 -  Start mining!</li>
+<li>Step 5 -  Start mining!
 
 ## Example
 
