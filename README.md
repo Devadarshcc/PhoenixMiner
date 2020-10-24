@@ -1,4 +1,4 @@
- ![](https://im0-tub-ru.yandex.net/i?id=b9a49ffc6713d1997ba64a44d6e6be16&n=13)
+ ![](https://forum.cryptoff.org/uploads/monthly_05_2018/post-6622-0-31972600-1526220545.png)
 
 # 	PhoenixMiner: fastest Ethereum/Ethash miner with lowest devfee (Win/Linux)
 <p>PhoenixMiner is high performance Ethereum (ETH) and ERC20 tokens  miner, with the official full Windows / Linux support.
